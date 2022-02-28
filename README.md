@@ -1,3 +1,3 @@
 # Python
 Python training
-Simple Python Neural Neetwork
+Simple Python Neural Network
